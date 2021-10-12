@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HussienHaji
 - 👀 I’m interested in JavaScript 
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me twitter:@HossuienHaji instagram:hussien_haji_dev
 
 <!---
